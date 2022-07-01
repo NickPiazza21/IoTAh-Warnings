@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotah-warnings",
+  "private_key_id": "cbe2efa082b070e1fdf043e114b9e0b463f7d1f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgN+3El6+raFkD\nJ7zCZEwXEimJm9JVgQ/wElDdJpBydT/OKktHXsWMdmsIWzkkAkwVilSpB1MggZQL\nvDend5ZeADAtPkYh2xTULkj8bWPqXvu+emAhEj9HLynMmJtH9We+R1vM9+mxyRR9\nFq3gTT+pGrsXZEQueYe21zT5rGZa51cOYrszjUcCzs24PzviUBt4dDn0zq/nGOBr\nBJrdYZv3OWgjNTAqsAm+DCmrCKct6i40IoiGGyT/OriQKwkQwQ+ldZVakhyeCLQ8\nU12a3/4nfxk1DKhb0jkXVY4oPavo6jkJWgYGWGEOAFvF/sBxohUhaRbe0L6fCPPK\nenGTZRpNAgMBAAECggEAbxPmC9WlpoH8Tu7ZuWfctjU+NLjoO4nDrog0XUrkln91\ni5oyTvopXcuwfKRMq4Uj0iwEgvRo/xqSkDm/TIyXBpyLQW6vachSCkefysYakJpb\nluKjSt7yUD6SM5SKoNx3d7F8Tg+nS3c1Wj7pBszeM9VVSGJY0LlOPYth6Cq7Tl6N\no/AfaDuXTgnAiymwsJ2qQPX3IiHlaNrm+KXhYSZrh0qMsAc9v3oWAUE41dIk13Ey\nwCe3Fe0bOG2lk5dQSvNmiAu7SeM7ksRl5orn7FLOoNOM/EHAZF/bygri7XOnDvpS\nxU1tRCt3zlRz0SuwPXdNCb7SoOrHMpA+VxI7MQhSNQKBgQD3rOIWvNPatemO8awt\nkx904Lo6J7fIkc/Kxg3S0MsFwyWhKdOMAVTYcFA4FsLHy5dCg6KaUyAri8V6J9E1\n4hJOfWy3ipqSM9QGiHJznXEr5t5vVcN6ee9meP1tdeg+XP4WDijx2Zc6M/8clNO7\nVLev4HrqWyPoIWwl9LgmOWLGGwKBgQDnwTYurQcf8hWVSCtWtNLwfDzrexwQYlEa\n2hwNpC11ohBCv0krDyPgQnkB/splswCPoU9HTz8PQ68qm0/iCRTygS/9JGcNuPv9\nDpql0qzQIFxtymKOQkT5GQdGoNsrBjr86GiDZRowRpIHXKI4ma615HcDjeACmKV+\ndnsZaAhHtwKBgQDwGwv7mweO6fgIecW/UPeX6RzgsAx9Rs44+BQCoiOP7IWYXeIV\nwlysjwVVussNwhNbih2imp9/V7sUF3G8WPQCX5l7vcTno5MS2kiKSMGkG+bb7Drb\ni0ZJA1Y8PafufVxdqVCMVbND25Cf9q/k1dZVjLvcYorGyU/84+d6NvvIrQKBgBHg\nLky1XepR4uZL1cPvWKHiA1TqfwSogLcAgc9vjW4YXQa4+GzQ0ySWG/1SaMwlXXK2\nr4XBkAyeXOF9b1DxAGOgIVJ2P1ionw8q1DTcJiY7iMWTKbztUaKhEpWZDK6p4Vzm\nlEEmSDnXB6Z3t6+D8xzmjWOByviIS6OQgfg4tQLLAoGATCiGDii+gYjEdMXHnwG8\nrXtdVFueQLfaYSw+AOji8kvH0pddZQ7FCcIS7FwD6PH/CBa/aTYec3fir/LZgGaz\nmeHImKTzCbIKBXFqu/ZTeTqHMMEJaJ2359phGb7UtzHTv3NImPFcYyRWFwHLoorN\nuntYDYtvdfDWIHJvLwEfNEM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iotah-warnings@iotah-warnings.iam.gserviceaccount.com",
+  "client_id": "102271998141539852369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iotah-warnings%40iotah-warnings.iam.gserviceaccount.com"
+}
